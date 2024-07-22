@@ -22,8 +22,8 @@ This project is an automated exploit tool designed to scan for and extract sensi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/hxlxmjxbbxs/Grafsploit.git
-    cd Grafsploit
+    git clone https://github.com/hxlxmjxbbxs/grafxploit.git
+    cd grafxploit
     ```
 
 2. Install the required Python library:
@@ -46,17 +46,17 @@ The tool can be run with various command-line options to specify targets, output
 
 1. Scan a single target:
     ```sh
-    python grafsploit.py -t http://192.168.1.100:3000
+    python grafxploit.py -t http://192.168.1.100:3000
     ```
 
 2. Scan multiple targets from a file:
     ```sh
-    python grafsploit.py -i targets.txt
+    python grafxploit.py -i targets.txt
     ```
 
 3. Specify an output directory for downloaded files:
     ```sh
-    python grafsploit.py -t http://192.168.1.100:3000 -o output_directory
+    python grafxploit.py -t http://192.168.1.100:3000 -o output_directory
     ```
 
 ## Developed by
