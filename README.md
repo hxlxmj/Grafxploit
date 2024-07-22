@@ -1,4 +1,5 @@
 # Automated Exploit Tool for Grafana CVE-2021-43798
+![Preview](image.png)
 
 ## Overview
 
